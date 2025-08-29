@@ -1,0 +1,6 @@
+framework module midpay {
+  umbrella header "midpay-umbrella.h"
+
+  export *
+  module * { export * }
+}

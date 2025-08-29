@@ -1,0 +1,6 @@
+framework module MidtransKit {
+  umbrella header "MidtransKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

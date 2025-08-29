@@ -1,0 +1,38 @@
+{
+  "name": "speech_to_text",
+  "version": "0.0.1",
+  "summary": "A new Flutter plugin project.",
+  "description": "A new Flutter plugin project.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "ios": {
+    "dependencies": {
+      "Flutter": [],
+      "Try": []
+    }
+  },
+  "osx": {
+    "dependencies": {
+      "FlutterMacOS": [],
+      "Try": []
+    }
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.13"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

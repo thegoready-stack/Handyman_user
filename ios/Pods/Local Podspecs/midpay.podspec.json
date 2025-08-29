@@ -1,0 +1,31 @@
+{
+  "name": "midpay",
+  "version": "1.1.6",
+  "summary": "A new flutter plugin project.",
+  "description": "Midtrans Payment Gateway for Flutter.",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Zaki": "kakzaki@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "homepage": "https://kakzaki.my.id",
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [],
+    "MidtransKit": [
+      "1.20.1"
+    ],
+    "MidtransCoreKit": [
+      "1.20.1"
+    ]
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "static_framework": true
+}
